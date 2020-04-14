@@ -6,10 +6,10 @@ The OpenJS Node.js Application Developer certification is designed for anyone lo
 ## JSNAD Domains & Competencies
 
 -   Buffer and Streams – 11%
-    -   Node.js Buffer API’s
-    -   Incremental Processing
-    -   Transforming Data
-    -   Connecting Streams
+    -   Node.js Buffer API’s [(buffer_api)](https://github.com/jesusr/jsnad/blob/master/buffer_api/index.js)
+    -   Incremental Processing (incremental_processing)
+    -   Transforming Data (transforming_data)
+    -   Connecting Streams (connecting_streams)
 -   Control flow – 12%
     -   Managing asynchronous operations
     -   Control flow abstractions
