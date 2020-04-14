@@ -1,3 +1,4 @@
+require('pretty-console-colors');
 console.info('3. Limited parallel - an asynchronous, parallel, concurrency limited for loop');
 (async () => {
     function async(arg, callback) {

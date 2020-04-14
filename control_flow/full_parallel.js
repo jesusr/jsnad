@@ -1,3 +1,4 @@
+require('pretty-console-colors');
 console.info('2. Full parallel - an asynchronous, parallel for loop');
 (async () => {
     function async(arg, callback) {

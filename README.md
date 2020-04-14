@@ -20,9 +20,9 @@ The OpenJS Node.js Application Developer certification is designed for anyone lo
     - :white_check_mark: :black_square_button: Connecting Streams [(connecting_streams)](https://github.com/jesusr/jsnad/blob/master/incremental_processing/index.js)
 -   Control flow – 12%
     -  :white_check_mark: :black_square_button: Managing asynchronous operations [(asynchronous_operations)](https://github.com/jesusr/jsnad/blob/master/asynchronous_operations/index.js)
-    -  :white_check_mark: :black_square_button: Control flow abstractions [(control_flow)](https://github.com/jesusr/jsnad/blob/master/control_flow)
+    -  :white_check_mark:    :black_square_button: Control flow abstractions [(control_flow)](https://github.com/jesusr/jsnad/blob/master/control_flow)
 -   Child Processes – 8%
-    -  :black_square_button: :black_square_button: Spawning or Executing child processes
+    -  :black_square_button: :black_square_button: Spawning or Executing child processes [(child_processes_spawn)](https://github.com/jesusr/jsnad/blob/master/child_processes_spawn/index.js)
     -  :black_square_button: :black_square_button: Child process configuration
 -   Diagnostics – 6%
     -  :black_square_button: :black_square_button: Debugging Node.js
