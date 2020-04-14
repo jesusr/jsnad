@@ -1,0 +1,23 @@
+{
+  "name": "jsnad",
+  "version": "1.0.0",
+  "description": "## Overview The OpenJS Node.js Application Developer certification is designed for anyone looking to demonstrate competence with Node.js to create applications of any kind, with a focus on knowledge of Node.js core APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusr/jsnad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusr/jsnad/issues"
+  },
+  "homepage": "https://github.com/jesusr/jsnad#readme",
+  "dependencies": {
+    "pretty-console-colors": "^1.1.1"
+  }
+}
