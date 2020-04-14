@@ -62,7 +62,7 @@ Borrowed from [JoseJPR/nodejs-certification](https://github.com/JoseJPR/nodejs-c
 
  - [ ] [Usage & Example](https://nodejs.org/api/synopsis.html)
  - [ ] [Assertion Testing](https://nodejs.org/api/assert.html) 
- - [ x ] [Buffer](https://nodejs.org/api/buffer.html) 
+ - [x] [Buffer](https://nodejs.org/api/buffer.html) 
  - [ ] [Child Processes](https://nodejs.org/api/child_process.html)  
  - [ ] [Cluster](https://nodejs.org/api/cluster.html)  
  - [ ] [Console](https://nodejs.org/api/console.html)   
